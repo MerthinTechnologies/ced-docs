@@ -1,3 +1,8 @@
+---
+title: "Authenticate to Merthin NPM Registry" 
+description: "Steps to authenticate to the Merthin NPM registry."
+---
+
 # Authenticate to Merthin NPM registry
 
 This will give you access to all packages under `@ced`, `@merthin` and `@product-central` scopes.
