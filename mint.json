@@ -35,10 +35,9 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Using CED",
       "pages": [
-        "tutorials",
-        "quickstart"
+        "tutorials"
       ]
     },
     {
