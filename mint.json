@@ -21,10 +21,6 @@
       "url": "mailto:support@merthin.com"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
       "name": "API Reference",
@@ -57,6 +53,6 @@
   ],
   "footerSocials": {
     "github": "https://github.com/merthin",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "linkedin": "https://www.linkedin.com/company/merthin"
   }
 }
